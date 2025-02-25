@@ -14,4 +14,4 @@ Convolutional Layers: These layers are designed to automatically learn spatial h
 
 
 
-I collaborated with a PhD candidate from Wayne State University to work on this.
+
