@@ -1,7 +1,7 @@
 # -Handwritten-Number-Recognition
-#Developed a machine learning model using a convolutional neural network trained on the MNIST dataset to differentiate handwritten numbers in various styles. #Experimented with deep learning, optimized hyperparameters, and improved accuracy through iterative testing.
+Developed a machine learning model using a convolutional neural network trained on the MNIST dataset to differentiate handwritten numbers in various styles. Experimented with deep learning, optimized hyperparameters, and improved accuracy through iterative testing.
 
-#There may be some errors; this was done solely for research and experimentation.
+There may be some errors; this was done solely for research and experimentation.
 
 
 Learning Feature Extraction: CNNs excel at automatically extracting features from images, which is a key reason for using them. This model helps the machine "learn" to recognize digits by detecting patterns like edges, shapes, and curves.
