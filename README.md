@@ -10,3 +10,8 @@ Deep Learning Practice: This gives you a hands-on experience of building and tra
 
 Why This Approach (CNN with MNIST)?
 Convolutional Layers: These layers are designed to automatically learn spatial hierarchies in images, making CNNs much more effective for image classification tasks than traditional feed-forward neural networks.
+
+
+
+
+I collaborated with a PhD candidate from Wayne State University to work on this.
